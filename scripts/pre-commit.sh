@@ -1,3 +1,3 @@
 #!/bin/bash
 
-echo "Call pre-commit.sh"
+echo "Running pre-commit.sh"

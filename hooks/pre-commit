@@ -3,5 +3,7 @@
 
 echo "Calling pre-commit.sh"
 
+../scripts/pre-commit.sh
+
 
 
